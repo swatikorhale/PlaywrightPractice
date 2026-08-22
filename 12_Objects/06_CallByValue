@@ -1,0 +1,7 @@
+//Call By value->it will not change the value of first variable 
+//As per pramod sir's example-->friend is not copying from my paper
+
+let a=10;
+let b=a;   //b=10
+b=99;      //b=99
+console.log(a);   //a will remain as it is

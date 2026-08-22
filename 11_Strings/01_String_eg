@@ -1,0 +1,17 @@
+//Single quote
+let a='hello';
+
+//double quote
+let name="Swati";
+
+//template variable
+let test=`test excuted in ${320} ms`;
+
+//Mutiline
+let report=`
+      Test:Login
+      Status:Pass
+      Duration:320ms
+      `;
+
+console.log(report);      

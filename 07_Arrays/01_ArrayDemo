@@ -1,0 +1,10 @@
+let fruits=[];
+console.log(typeof(fruits))   //object
+
+let browsers=["chrome","firefox","mozilla"];
+console.log(browsers[0]);
+console.log(browsers[-1]); //undefined
+
+//for the negative index
+console.log(browsers.at(-1));  //mozilla
+console.log(browsers.length);  //3

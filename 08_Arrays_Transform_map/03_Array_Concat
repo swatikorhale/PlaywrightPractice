@@ -1,0 +1,14 @@
+//Concat
+let a=[1,2];
+let b=[3,4];
+
+let res=a.concat(b);
+console.log(res);
+
+//modern way for concatenation (...)
+let d=[...a,...b];
+console.log(d);
+
+//join
+let s=["pass","fail","skip"].join(" | ");
+console.log(s);    //pass | fail | skip
