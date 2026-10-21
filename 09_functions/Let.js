@@ -1,4 +1,5 @@
 //Let-Block scoped
+//var-function scoped
 
 let a=10;
 console.log(a);      //Global scope

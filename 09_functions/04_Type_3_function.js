@@ -1,4 +1,4 @@
-//With No Param/Return type but with return type
+//With No Param but with return type
 
 //define
 function sayHello()
@@ -8,4 +8,4 @@ function sayHello()
 
 //call
 let val=sayHello();
-console.log(val);
+console.log(val);   //Hello

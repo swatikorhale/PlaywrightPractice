@@ -33,7 +33,6 @@ arr.splice(2,0,99);
 console.log(arr);      //[ 1, 2, 99, 3, 5, 6 ] -Added element at index 2
 
 //[ 1, 2, 99, 3, 5, 6 ]
-arr.splice(1,2,10,20)  //go to index 2 and remove two elements(2,99) and add two elements(10,20)
+arr.splice(1,2,10,20)  //go to index 1 and remove two elements(2,99) and add two elements(10,20)
 console.log(arr);      //[ 1, 10, 20, 3, 5, 6 ]
 
-arr.splice(1,1,10,20)  //go to index 2 and remove one elements(2,99) and add two elements(10,20)

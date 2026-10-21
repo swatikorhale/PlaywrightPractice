@@ -14,7 +14,6 @@ let a=doubleB(10);
 console.log(a);
 
 //Multiline
-
 const getResult= (score) =>
 {
     if(score>70) return "pass"

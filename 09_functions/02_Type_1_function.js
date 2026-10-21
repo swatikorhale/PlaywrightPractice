@@ -7,7 +7,10 @@ function greet()
 }
 
 //calling
-greet();
+greet();                  //Hi
 
-let output=greet();
-console.log(output);   //undefined
+
+//this for if function is returning something then we need to save
+
+ let output=greet();        //Hi
+ console.log(output);   //undefined

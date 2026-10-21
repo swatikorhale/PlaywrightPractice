@@ -2,7 +2,7 @@
 console.log(String(200));   //"200"
 
 //boolean to string 
-String(true);               //"true"
+console.log(String(true));               //"true"
 
 //null to String
 console.log(String(null));  //"null"

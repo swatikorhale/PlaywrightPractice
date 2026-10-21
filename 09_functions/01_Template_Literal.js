@@ -5,3 +5,5 @@ function callByName(name)
 
 let val=callByName("Swati");
 console.log(val);
+
+

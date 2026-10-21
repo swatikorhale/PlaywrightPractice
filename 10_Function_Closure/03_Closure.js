@@ -1,4 +1,5 @@
-//Closure- means when an inner function remembers and call variables from its outer function even after the outer function has finihed executing
+//Closure- means when an inner function remembers and call variables from its outer function
+// even after the outer function has finihed executing
 
 //outer function
 function startBrowser()

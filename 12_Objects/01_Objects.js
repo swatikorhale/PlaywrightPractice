@@ -1,3 +1,4 @@
+//Key and value
 let a={status:"pass"};
 console.log(a.status);
 console.log(a["status"]);

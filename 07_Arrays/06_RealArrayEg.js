@@ -19,3 +19,4 @@ for(let i=0;i<browsers.length;i++)
         break;
     }
 }
+

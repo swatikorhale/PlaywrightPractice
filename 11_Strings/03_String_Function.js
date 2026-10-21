@@ -1,11 +1,11 @@
 let str="Hello, World!";
 
 //length
-console.log(str.length);
+console.log(str.length);          //13
 
 //character At
-console.log(str[0]);
-console.log(str.at(-1));
+console.log(str[0]);             //H
+console.log(str.at(-1)); 
 console.log(str.at(-6));
 
 console.log(str.charAt(0));

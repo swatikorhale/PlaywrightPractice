@@ -1,3 +1,4 @@
+//normal function
 function greet(name1)
 {
     return `Hello, ${name1}`;

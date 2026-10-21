@@ -10,3 +10,5 @@ if(true)
 
 //Ans:
 //ReferenceError: Cannot access 'a' before initialization
+
+

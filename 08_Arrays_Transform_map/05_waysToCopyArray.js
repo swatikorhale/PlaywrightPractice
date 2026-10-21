@@ -1,3 +1,5 @@
+//Ways to copy array
+
 //spread operator(...)
 let original=[1,2,3];
 let copy1=[...original];

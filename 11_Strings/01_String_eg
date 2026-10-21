@@ -4,7 +4,7 @@ let a='hello';
 //double quote
 let name="Swati";
 
-//template variable
+//template variable->`${}`
 let test=`test excuted in ${320} ms`;
 
 //Mutiline

@@ -6,3 +6,4 @@ function sayHello(name)
 
 //calling
 sayHello("swati");
+
